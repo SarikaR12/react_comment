@@ -1,16 +1,14 @@
 {
   "users": [
     {
-      "id": "357d",
-      "username": "sarika",
-      "price": 60000,
-      "desc": "is a girl"
-    },
-    {
       "id": "8f71",
       "username": "tusha",
       "price": 88000,
       "desc": "is a girl"
+    },
+    {
+      "id": "908e",
+      "undefined": "this is bag"
     }
   ]
 }
